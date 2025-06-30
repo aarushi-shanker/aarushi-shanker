@@ -60,13 +60,3 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aarushi-shanker-9aa723261/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:aarushishanker810@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarushi-shanker&show_icons=true&theme=radical" alt="Aarushi's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushi-shanker&theme=radical" alt="GitHub Streak" />
-</p>
-
----
