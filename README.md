@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
 - 🧑‍💻 **Development Intern @ Bizframe** — Built internal web features with real-time data updates
 - 🛠️ **SDE Intern @ Agrix** — Built flutter apps with real-time data updates
 - 📚 **BCECE[PCM] - 2022** — Ranked 1 (Category - BC) and 5 (Category - Unreserved)
-- 📢 **Myntra HackerRamp 2024** Ranked in the Top 1214 out of 29,643 participants
-- 📖 **TVS Credit E.P.I.C 6.0:** Ranked in the Top 3400 out of 42,009 participants
+- 📢 **Myntra HackerRamp 2024** — Ranked in the Top 1214 out of 29,643 participants
+- 📖 **TVS Credit E.P.I.C 6.0** — Ranked in the Top 3400 out of 42,009 participants
 - 📄 **Placement Coordinator** — T&P Cell, BIT Mesra brochure (2025-2026)
-- 🥇 **GSSoC'24** Ranked 823 out of 27000+ participants, for active open-source contributions
+- 🥇 **GSSoC'24** — Ranked 823 out of 27000+ participants, for active open-source contributions
   
 ---
 
