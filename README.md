@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi there, I'm Aarushi Shanker 👋</h1>
 <p align="center">
-  <i>Passionate Coder | Full-Stack Developer | ML Enthusiast</i>
+  <i>Passionate Coder | ML Enthusiast</i>
 </p>
 
 ---
