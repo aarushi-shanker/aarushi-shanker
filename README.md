@@ -3,9 +3,9 @@ aarushi-shanker/aarushi-shanker is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi there, I'm Aarushi Shanker 👋</h1>
+<h1 align="center">Hi, I'm Aarushi Shanker 👋</h1>
 <p align="center">
-  <i>Passionate Coder | ML Enthusiast</i>
+  <i>Developer | ML Enthusiast</i>
 </p>
 
 ---
@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 ---
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE student at BIT Mesra (3rd Year)
-- 💻 Full-Stack Developer (MERN, Flutter, React Native)
+- 🎓 B.Tech CSE student at BIT Mesra (Final Year Student)
+- 💻 Full-Stack & Mobile App Developer (MERN, Flutter, React Native)
 - 🤝 Strong believer in growing as a team and helping peers & juniors
 - 🎯 Actively contributing to open source, hackathons, and tech communities
 
