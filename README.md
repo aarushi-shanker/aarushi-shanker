@@ -1,5 +1,5 @@
 <!---
-aarushi-shanker/aarushi-shanker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aarushi-shanker/aarushi-shanker is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -9,7 +9,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aarushi-shanker&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi-shanker" />
+</p>
 
+---
 ### 🚀 About Me
 
 - 🎓 B.Tech CSE student at BIT Mesra (3rd Year)
@@ -55,7 +59,14 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
 ---
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushi-shanker&theme=radical&hide_current_streak=true" alt="GitHub Streak" />
+  <br />
+</p>
+
+---
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aarushi-shanker-9aa723261/)
