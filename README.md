@@ -58,15 +58,6 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushi-shanker&theme=radical&hide_current_streak=true" alt="GitHub Streak" />
-  <br />
-</p>
-
----
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aarushi-shanker-9aa723261/)
