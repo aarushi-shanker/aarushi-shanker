@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Software Engineer</h1>
 <p align="center">
-  <i>Developement | Machine Learning</i>
+  <h3>Developement | Machine Learning</h3>
 </p>
 
 ---
@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Open Source:
+### Open Source
 
-- **GSSoC 2024** — Advanced to Rank 823 among more than 27000 contributors
+**GSSoC 2024** — Advanced to Rank 823 among more than 27000 contributors
   
 ---
 
@@ -44,7 +44,9 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 📫 Connect with Me
+---
+
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aarushi-shanker-9aa723261/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:aarushishanker810@gmail.com)
