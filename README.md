@@ -4,8 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Software Engineer</h1>
+
 <p align="center">
-  <h3>Developement | Machine Learning</h3>
+  <strong>Full-Stack Development • Machine Learning</strong>
 </p>
 
 ---
@@ -43,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ---
 
