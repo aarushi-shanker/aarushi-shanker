@@ -3,9 +3,9 @@ aarushi-shanker/aarushi-shanker is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi, I'm Aarushi Shanker 👋</h1>
+<h1 align="center">Software Engineer</h1>
 <p align="center">
-  <i>Developer | ML Enthusiast</i>
+  <i>Developement | Machine Learning</i>
 </p>
 
 ---
@@ -14,49 +14,35 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-### 🚀 About Me
 
-- 🎓 B.Tech CSE student at BIT Mesra (Final Year Student)
-- 💻 Full-Stack & Mobile App Developer (MERN, Flutter, React Native)
-- 🤝 Strong believer in growing as a team and helping peers & juniors
-- 🎯 Actively contributing to open source, hackathons, and tech communities
+### Open Source:
 
----
-
-### 🏆 Achievements
-
-- 🧑‍💻 **Development Intern @ Bizframe** — Built internal web features with real-time data updates
-- 🛠️ **SDE Intern @ Agrix** — Built flutter apps with real-time data updates
-- 📚 **BCECE[PCM] - 2022** — Ranked 1 (Category - BC) and 5 (Category - Unreserved)
-- 📢 **Myntra HackerRamp 2024** — Ranked in the Top 1214 out of 29,643 participants
-- 📖 **TVS Credit E.P.I.C 6.0** — Ranked in the Top 3400 out of 42,009 participants
-- 📄 **Placement Coordinator** — T&P Cell, BIT Mesra brochure (2025-2026)
-- 🥇 **GSSoC'24** — Ranked 823 out of 27000+ participants, for active open-source contributions
+- **GSSoC 2024** — Advanced to Rank 823 among more than 27000 contributors
   
 ---
 
-### 🔧 Tech Stack
+### Technical Skills
 
-#### 💻 Languages
+#### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 
-#### 🌐 Frontend
+#### Development 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-
-#### 🛠️ Backend & DB
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
-#### 🧰 Tools & Platforms
+#### Tools
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
 ### 📫 Connect with Me
 
